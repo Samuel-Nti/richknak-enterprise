@@ -76,7 +76,7 @@ export default function Products() {
     filterCategory ? item.category === filterCategory : true
   );
 
-  const whatsappNumber = '233246434717'; // replace with real number
+  const whatsappNumber = '233243180382'; // replace with real number
 
   const generateWhatsAppLink = (item: ProductItem) => {
     const message = `Hello, I am interested in ${item.title}. Year Range: ${item.yearRange}.`;
