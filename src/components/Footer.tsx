@@ -9,7 +9,7 @@ export default function Footer() {
               <span className="ml-2 text-white">ENTERPRISE</span>
             </div>
             <p className="text-gray-400">
-              Your trusted partner for quality auto spare parts in Ghana. Specializing in brake parts for all vehicle makes and models.
+              Your trusted partner for quality auto spare parts in Ghana. Specializing in brake pots and ABS systems for all vehicle makes and models.
             </p>
           </div>
 
@@ -42,12 +42,12 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Popular Brands</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Toyota Parts</li>
-              <li>Honda Parts</li>
-              <li>Mercedes-Benz Parts</li>
-              <li>Nissan Parts</li>
-              <li>Ford Parts</li>
-              <li>Hyundai Parts</li>
+              <li>American Cars Brake Pot</li>
+              <li>Toyota Prado ABS</li>
+              <li>Toyota Land Cruiser ABS</li>
+              <li>Toyota Tacoma ABS</li>
+              <li>Toyota Vitz Brake Pots</li>
+              <li>Toyota Rav4</li>
             </ul>
           </div>
         </div>

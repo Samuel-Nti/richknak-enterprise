@@ -24,8 +24,8 @@ export default function Contact() {
               <div className="ml-4">
                 <h3 className="text-lg font-semibold text-gray-900 mb-1">Location</h3>
                 <p className="text-gray-600">
-                  123 Spintex Road, Accra<br />
-                  Ghana
+                  Nii Abossey Street 23, Abossey Okai<br />
+                  Accra, Ghana
                 </p>
               </div>
             </div>
@@ -39,11 +39,11 @@ export default function Contact() {
               <div className="ml-4">
                 <h3 className="text-lg font-semibold text-gray-900 mb-1">Phone</h3>
                 <a href="tel:+233123456789" className="text-gray-600 hover:text-red-600 transition">
-                  +233 123 456 789
+                  +233 243 180 382
                 </a>
                 <br />
                 <a href="tel:+233987654321" className="text-gray-600 hover:text-red-600 transition">
-                  +233 987 654 321
+                  +233 277 180 382
                 </a>
               </div>
             </div>
@@ -56,13 +56,10 @@ export default function Contact() {
               </div>
               <div className="ml-4">
                 <h3 className="text-lg font-semibold text-gray-900 mb-1">Email</h3>
-                <a href="mailto:info@ghanaautoparts.com" className="text-gray-600 hover:text-red-600 transition">
-                  info@ghanaautoparts.com
+                <a href="mailto:richardantwi248@gmail.com" className="text-gray-600 hover:text-red-600 transition">
+                  richardantwi248@gmail.com
                 </a>
-                <br />
-                <a href="mailto:sales@ghanaautoparts.com" className="text-gray-600 hover:text-red-600 transition">
-                  sales@ghanaautoparts.com
-                </a>
+               
               </div>
             </div>
 

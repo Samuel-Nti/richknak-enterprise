@@ -1,4 +1,5 @@
 import { ArrowRight } from 'lucide-react';
+import pic1 from '../images/pic1.jpeg'
 
 export default function Hero() {
   const scrollToContact = () => {
@@ -14,10 +15,10 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
-              Quality Auto Parts for <span className="text-red-600">Every Vehicle</span>
+              Quality Brake pots and ABS for <span className="text-red-600">Every Vehicle</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-8">
-              Your trusted source for premium brake parts and auto components in Ghana.
+              Your trusted source for premium brake pots and auto components in Ghana.
               We stock quality parts for all major car brands at competitive prices.
             </p>
             <button
@@ -30,9 +31,9 @@ export default function Hero() {
           </div>
 
           <div className="relative">
-            <div className="bg-red-600 rounded-2xl p-8 shadow-2xl">
+            <div className="bg-red-600 rounded-2xl p-2 shadow-2xl">
               <img
-                src="https://images.pexels.com/photos/3806288/pexels-photo-3806288.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                src={pic1}
                 alt="Auto parts"
                 className="rounded-lg shadow-lg w-full h-auto"
               />
